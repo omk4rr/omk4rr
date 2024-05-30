@@ -5,7 +5,7 @@
 <h1 align="center"> Hi, I'm Omkar Badve </br> 
 </h1>
 <p align="center">Designer | Developer</p>
-<p align="center">Turning imagination into reality </p>
+<p align="center">Manifesting creativity </p>
 
 ## Creation 👨‍💻
 
