@@ -13,8 +13,8 @@
 
 
 
-### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  Shopique : Clothing Website
-[Shopique : Clothing Website](https://omk4rr.github.io/Clothing-Store/) is a clothing website designed with minimilistic elements focusing on responsiveness and aesthetic website.
+### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  Clothing Brand Website
+[Clothing Website](https://omk4rr.github.io/Clothing-Store/) is a clothing website designed keeping aesthetics and creativity in mind with minimalistic elements.
 
 ## Socials🌐:
  <p align="center">
