@@ -5,7 +5,7 @@
 <h1 align="center"> Hello, I'm Omkar </br> 
 </h1>
 <p align="center">Designer | Developer</p>
-<p align="center">Manifesting creativity </p>
+<p align="center">Manifesting Creativity </p>
 
 ## Creation 👨‍💻
 
