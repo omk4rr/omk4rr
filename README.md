@@ -14,7 +14,7 @@
 
 
 ### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  Clothing Brand Website
-[Clothing Website](https://omk4rr.github.io/Clothing-Store/) is a clothing website designed keeping aesthetics and creativity in mind with minimalistic elements.
+[Clothing Store](https://omk4rr.github.io/Clothing-Store/) is a clothing website designed keeping aesthetics and creativity in mind with minimalistic elements.
 
 ## Socials🌐:
  <p align="center">
