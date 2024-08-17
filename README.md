@@ -12,7 +12,10 @@
 
 
 
-
+### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" /> GestureFx
+[GestureFx](https://github.com/omk4rr/GestureFx) is a Machine Learning project that allows the user to control the volume and brightness by using hand gestures.
+### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" /> Etrnl Image Search Engine
+[Etrnl Search Engine](https://github.com/omk4rr/Etrnl-Image-Search-Engine) is an Image Search Engine that uses Unsplash API to search and display the search results.
 ### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  Clothing Brand Website
 [Clothing Store](https://omk4rr.github.io/Clothing-Store/) is a clothing website designed keeping aesthetics and creativity in mind with minimalistic elements.
 
