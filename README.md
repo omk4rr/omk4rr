@@ -29,6 +29,7 @@
 
 ## Tech Stack 💻
 #### Languages
+![Pyhton]((https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)])
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
