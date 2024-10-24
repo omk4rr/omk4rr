@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%22Everything+not+saved+will+be+lost%22" alt="Typing SVG" ></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Everything+not+saved+will+be+lost" alt="Typing SVG"></h2>
 
 </h2>
 
