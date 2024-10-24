@@ -11,7 +11,8 @@
 
 
 
-
+### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" /> TathyaX
+[TathyaX](https://github.com/Tathya-X/TathyaX) is an AI Agent that fact checks tweets on X(Formerly known as twitter) when its mentioned under them currently the bit is under development.
 ### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" /> GestureFx
 [GestureFx](https://github.com/omk4rr/GestureFx) is a Machine Learning project that allows the user to control the volume and brightness by using hand gestures.
 ### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" /> Etrnl Image Search Engine
