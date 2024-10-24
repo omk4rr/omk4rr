@@ -22,8 +22,8 @@
 
 ## Socials🌐:
 <p align="center">
-<a href="https://twitter.com/omk4rr" target="_blank"><img alt="" src="(https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)" style="vertical-align:center" /></a>
-<a href="https://www.linkedin.com/in/omk4rr" target="_blank"><img alt="" src="(https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)" style="vertical-align:center" /></a>
+<a href="https://twitter.com/omk4rr" target="_blank"><img alt="X" src="[(https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/omk4rr" target="_blank"><img alt="LinkedIn" src="[(https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)" style="vertical-align:center" /></a>
 
 ## Tech Stack 💻
 #### Languages
