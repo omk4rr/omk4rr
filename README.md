@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hello, I'm Omkar </br> 
 </h1>
-<p align="center">Designer | Developer</p>
+<p align="center"> Gen AI/ ML | Designer | Developer</p>
 <p align="center">Manifesting Creativity </p>
 
 ## Projects 👨‍💻
