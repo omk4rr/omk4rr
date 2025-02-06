@@ -22,7 +22,7 @@
 
 ## Socials🌐:
 <p align="center">
-  <a href="https://twitter.com/omk4rr" target="_blank">
+  <a href="https://x.com/omk4rr" target="_blank">
     <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/omk4rr" target="_blank">
