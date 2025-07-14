@@ -4,13 +4,13 @@
 
 <h1 align="center"> Hello, I'm Omkar </br> 
 </h1>
-<p align="center"> Gen AI/ ML | Automation | Cloud Technologies | Data Engineer </p>
-<p align="center">Manifesting Creativity </p>
+<p align="center"> AI | ML | Cloud Technologies | Data Engineer | Systems Integrator & Automation Architect </p>
+<h3 align="center">Manifesting Creativity </br> </h3>
 
 ## Projects 👨‍💻
 
-
-
+### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" /> DisceplineAI
+[DisceplineAI](https://github.com/omk4rr/DisceplineAI) A 4‑bit QLoRA‑tuned LoRA adapter on Mistral‑7B with FAISS‑powered RAG and curated few‑shot prompts, delivering persona‑driven discipline coaching in sub‑second inferences. Check it out on [HuggingFace](https://huggingface.co/omk4r/DisceplineAI)
 ### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" /> TathyaX
 [TathyaX](https://github.com/Tathya-X) is an AI Agent that fact checks tweets on X(Formerly known as twitter) when its mentioned under them currently the bot is under development.
 ### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" /> GestureFx
